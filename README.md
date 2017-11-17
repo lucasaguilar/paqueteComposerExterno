@@ -3,7 +3,7 @@ Repositorio de prueba para descargar via composer
 
 Definición de un paquete de tipo librera para utilizar con el manejador de dependencias composer. Basicamente permite agregar código a tus proyectos via composer (externo a packagist).
 
-Primero en un repositorio (publico) crear colocar el código fuentes y el archivo composer.json en el raíz con la siguiente estructura (o similar) [https://github.com/lucasaguilar/paqueteComposerExterno/edit/master/README.md]
+Primero en un repositorio (publico) crear colocar el código fuentes y el archivo composer.json en el raíz con la siguiente estructura (o similar) [https://github.com/lucasaguilar/paqueteComposerExterno/blob/master/composer.json]
 
 Luego para utilizar un paquete externo en el composer.json de tu proyecto agregar lo siguiente, (ejemplo):
 
