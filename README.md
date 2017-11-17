@@ -28,3 +28,9 @@ Para utilizar un paquete externo en el composer.json de su proyecto agregar lo s
  Y luego ejecutar:  php composer.phar require isimultanea/componente-prueba:* --verbose (ultimo comando opcional)
  
  
+Si todo sale bien (con un repo publico!!! ojo!):
+
+Installs: isimultanea/componente-prueba:dev-master 95ea516
+  - Installing isimultanea/componente-prueba (dev-master 95ea516): Cloning 95ea516fa589776dead16ccd5c1
+  
+Luego van a poder utilizar el código gestionado via composer.
