@@ -21,6 +21,12 @@
     "require": {
         "php": ">=5.3.2"
     },
+    "autoload": {
+        "psr-0": { "isimultanea\\": "lib/" }
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
     "extra": {
         "branch-alias": {
             "master": "2.3.x-dev"
